@@ -1,0 +1,26 @@
+{
+  "name": "meun_slide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjswnd2a/meun_slide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjswnd2a/meun_slide/issues"
+  },
+  "homepage": "https://github.com/tjswnd2a/meun_slide#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.54.5",
+    "typescript": "^4.8.2"
+  },
+  "dependencies": {}
+}

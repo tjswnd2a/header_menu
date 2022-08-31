@@ -1,0 +1,59 @@
+// .starbucks {
+//   a {
+//     color: #000;
+//     text-decoration: none;
+//   }
+//   background-color: #f5f6ef;
+//   .inner {
+//     position: relative;
+//     width: 1100px;
+//     height: 120px;
+//     margin: 0 auto;
+//     background-color: orange;
+//   }
+//   .logo {
+//     background-color: aqua;
+//     img {
+//       position: absolute;
+//       left: 0;
+//       top: 0;
+//       bottom: 0;
+//       margin: auto;
+//       width: 75px;
+//       height: 75px;
+//     }
+//   }
+//   .top-menu {
+//     ul {
+//       position:absolute;
+//       right: 0;
+//       top: 10px;
+//       display: flex;
+//       li {
+//         border-right: 1px solid #000;
+//         padding: 0 10px;
+//         &:last-child{
+//         border-right: none;
+//         }
+//       }
+//     }
+//   }
+//   .bottom-menu {
+//     ul {
+//       position: absolute;
+//       bottom: 0;
+//       right: 0;
+//       // z-index: ;
+//       display: flex;
+//       .item {
+//         padding: 10px 10px 30px 10px;
+//         &:hover {
+//           color: #669900;
+//           background-color: #2c2a29;
+//         }
+//         .item-content {
+//         }
+//       }
+//     }
+//   }
+// }
